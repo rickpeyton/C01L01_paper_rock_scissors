@@ -55,3 +55,4 @@ loop do
   again = gets.chomp.upcase
   break unless again == 'Y'
 end
+system 'clear'

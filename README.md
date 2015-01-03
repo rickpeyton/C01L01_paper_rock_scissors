@@ -1,1 +1,2 @@
-# Course 01 Lecture 01 Paper Rock Scissors App
+# Paper Rock Scissors Assignment
+Tealeaf Academy: C01L01
